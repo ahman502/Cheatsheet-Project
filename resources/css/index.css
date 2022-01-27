@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    color: cadetblue;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: cadetblue;
+    color: blanchedalmond;
+    font-size: 40px;
+    padding: 70px 0px;
+    margin: 0px;
+    letter-spacing: 0.5em;
+}
+
+h4 {
+    font-size: 25px;
+    margin: 30px auto;
+    color: cadetblue;
+}
+
+table {
+    margin: auto;
+    width: 80%;
+    border-spacing: 6px 3px;
+}
+
+table th {
+    font-size: 20px;
+    color: blanchedalmond;
+    font-weight: bold;
+    background-color: rgba(95, 158, 160, 0.7);
+}
+
+table td {
+    font-size: 18px;
+    padding: 8px 50px;
+    border-bottom: 2px solid cadetblue;
+}
+
+.elements {
+    background-color: cadetblue;
+    color: blanchedalmond;
+}
